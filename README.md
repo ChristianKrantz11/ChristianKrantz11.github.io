@@ -1,6 +1,13 @@
-# ChristianKrantz11.github.io
+<h1 align="center">👋 ChristianKrantz11.github.io</h1>
 
-The source for my personal GitHub Pages site: **https://christiankrantz11.github.io/**
+<p align="center">The source for my personal GitHub Pages site.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="GitHub Pages">
+</p>
+
+<p align="center"><a href="https://christiankrantz11.github.io/"><strong>Visit the site</strong></a></p>
 
 > **Status:** This is a placeholder page for now. A portfolio is coming soon.
 
